@@ -1,0 +1,36 @@
+body{
+ 
+  background-image: url(banner-img.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container{
+	 margin-top: 50px;
+	 width: 70%;
+}
+.formtitle{
+	background-color: black;
+	 justify-content: center; 
+	 padding-top:5px;
+	 color:#ffffff;
+	 height: 40px; 
+	 opacity: 70%
+}
+.bodycol{
+	background-color: white;
+	 padding-top: 10px;
+}
+
+label{
+	color: color:#224a8f;
+}
+.textcol{
+	background-color: #224a8f; 
+	opacity: 60%; 
+	padding-top: 100px; 
+	text-align: center; 
+	color: white;
+
+}
